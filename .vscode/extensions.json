@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver",
+        "pranaygp.vscode-css-peek",
+        "ecmel.vscode-html-css",
+        "xabikos.javascriptsnippets",
+        "esbenp.prettier-vscode",
+        "visualstudioexptteam.vscodeintellicode",
+        "christian-kohler.npm-intellisense",
+        "ms-vscode.js-debug-nightly"
+    ]
+}
